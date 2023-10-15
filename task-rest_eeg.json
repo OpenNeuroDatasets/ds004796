@@ -1,0 +1,16 @@
+{
+    "TaskName": "rest",
+    "TaskDescription": "The resting state protocol (rest) is widely used to monitor spontaneous brain activity. During the EEG session, subjects were instructed to remain still and quiet, firstly with they eyes open (for 4 minutes) and then with the eyes closed (for 6 minutes). In the fMRI recording only the resting state eyes closed condition was introduced. The task was fully described in the corresponding research paper.",
+    "SamplingFrequency": 1000,
+    "ManufacturersModelName": "Brain Products GmbH actiCHamp",
+    "CapManufacturersModelName": "Brain Products GmbH",
+    "EEGReference": "FCz",
+    "EEGGround": "FPz",
+    "PowerLineFrequency": 50,
+    "SoftwareFilters": "n/a",
+    "HardwareFilters": {
+        "Lowpass": {
+            "Hz": 280
+        }
+    }
+}
