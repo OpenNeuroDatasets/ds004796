@@ -13,5 +13,9 @@
     "EthicsApprovals": [
         "This study was approved by the Bioethics Committee of the Nicolaus Copernicus University in Toruń at the Ludwik Rydygier Collegium Medicum in Bydgoszcz, Poland (KB 684/2019)"
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds004796.v1.0.1"
+    "DatasetDOI": "doi:10.18112/openneuro.ds004796",
+
+    "Genetics": {
+        "Dataset": "genetic data are included in the participants.tsv file"
+        }
 }
