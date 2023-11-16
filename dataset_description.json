@@ -16,7 +16,7 @@
     "DatasetDOI": "doi:10.18112/openneuro.ds004796",
 
     "Genetics": {
-        "Dataset": "genetic data are included in the participants.tsv file",
-        "Database": "n/a; genetic data are included within this dataset (https://openneuro.org/datasets/ds004796)"
+        "Dataset": "https://openneuro.org/datasets/ds004796",
+        "Database": "https://openneuro.org/datasets/ds004796"
         }
 }
