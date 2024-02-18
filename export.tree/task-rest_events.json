@@ -1,0 +1,23 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "miliseconds"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "miliseconds"
+  },
+
+  "event_type": {
+    "Description": "Type of event",
+    "Levels": {
+      "S 2": "Eyes-open condition start",
+      "S 4": "Eyes-closed condition start"
+    }
+  },
+
+  "trial_type": {
+    "Description": "Type of trial"
+  }
+
+}
