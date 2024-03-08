@@ -1,5 +1,5 @@
 ## A Polish Electroencephalography, Alzheimer’s Risk-genes, Lifestyle and Neuroimaging (PEARL-Neuro) Database 
-### DOI of the data descriptor publication: will be added soon
+### DOI of the data descriptor publication: doi.org/10.1038/s41597-024-03106-5 (https://www.nature.com/articles/s41597-024-03106-5)
 
 ### Description of the database 
 
@@ -20,14 +20,19 @@ Cohort subgroup: 79 healthy middle-aged (50-63) individuals, balanced female and
 * Blood tests data (blood count, lipid profile, HSV virus).
 
 ### Please cite the following references if you use these data:
-* will follow soon
-* will follow soon
+* Dzianok, P., Kublik, E. PEARL-Neuro Database: EEG, fMRI, health and lifestyle data of middle-aged people at risk of dementia. Sci Data 11, 276 (2024). https://doi.org/10.1038/s41597-024-03106-5
+* Dzianok, O., Kublik, E. A Polish Electroencephalography, Alzheimer’s Risk-genes, Lifestyle and Neuroimaging (PEARL-Neuro) Database (2024). doi: 10.18112/openneuro.ds004796.v1.0.5
 
 ### Additional info:
-The data are described as a data descriptor article: DOI will follow soon
+The data are described as a data descriptor article: doi.org/10.1038/s41597-024-03106-5 (https://www.nature.com/articles/s41597-024-03106-5)
 
 ### Publications related to this dataset:
 * Dzianok P, Kublik E. Altered granulocyte count and erythrocyte measures in middle-aged, healthy carriers of APOE and PICALM risk genes for Alzheimer's disease. Acta Neurobiol Exp. 2023;83(2):127-139. doi:10.55782/ane-2023-012
+* Preprint available soon: Effect of APOE/PICALM risk-genes on resting-state EEG in cognitively intact and healthy middle-aged individuals is in-line with Alzheimer’s disease EEG hallmarks (data used: EEG & fMRI resting-state eyes-closed data, behavioural and psychometric/health data in regard to the genetic groups)
+* Preprint available soon: Cognitive resilience or vulnerability? The role of APOE/PICALM variants in attention and memory tasks among healthy individuals  (data used: EEG & fMRI MSIT and Sternberg data, behavioural and psychometric/health data in regard to the genetic groups)
+
+### Additional data:
+* Structural MRI data are protected and available upon request
 
 ### Release history:
 10/2023: Initial release
