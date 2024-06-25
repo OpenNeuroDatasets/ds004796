@@ -1,0 +1,32 @@
+{
+  "onset": {
+    "Description": "Event onset",
+    "Units": "miliseconds"
+  },
+  "duration": {
+    "Description": "Event duration",
+    "Units": "miliseconds"
+  },
+
+  "event_type": {
+    "Description": "Type of event",
+    "Levels": {
+      "S 1": "Response: not true",
+      "S 2": "Response: true",
+      "S 3": "Low-demanding condition trial",
+      "S 4": "High-demanding condition trial",
+      "S 10": "Start of a break",
+      "S 11": "Retention",
+      "S 12": "Probe"
+    }
+  },
+
+  "trial_type": {
+    "Description": "Type of trial",
+    "Levels": {
+      "stimulus": "Task stimulus",
+      "response": "Response to the stimulus: 1, 2 or 3"
+    }
+  }
+
+}
