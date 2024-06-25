@@ -29,13 +29,14 @@ The data are described as a data descriptor article:
 * doi.org/10.1038/s41597-024-03106-5 (https://www.nature.com/articles/s41597-024-03106-5)
 
 ### Publications related to this dataset:
-* Dzianok P, Kublik E. Altered granulocyte count and erythrocyte measures in middle-aged, healthy carriers of APOE and PICALM risk genes for Alzheimer's disease. Acta Neurobiol Exp. 2023;83(2):127-139. doi:10.55782/ane-2023-012
-* Preprint available soon: Effect of APOE/PICALM risk-genes on resting-state EEG in cognitively intact and healthy middle-aged individuals is in-line with Alzheimer’s disease EEG hallmarks (data used: EEG & fMRI resting-state eyes-closed data, behavioural and psychometric/health data in regard to the genetic groups)
+* Dzianok P, Kublik E. Altered granulocyte count and erythrocyte measures in middle-aged, healthy carriers of APOE and PICALM risk genes for Alzheimer's disease. Acta Neurobiol Exp. 2023;83(2):127-139. doi: 10.55782/ane-2023-012
+* [bioRxiv PREPRINT] Dzianok P, Wojciechowski J, Wolak T, Kublik E. Alzheimer’s disease-like features in resting state EEG/fMRI of cognitively intact and healthy middle-aged APOE/PICALM risk carriers. bioRxiv 2024.06.20.599857; doi: 10.1101/2024.06.20.599857 
 * Preprint available soon: Cognitive resilience or vulnerability? The role of APOE/PICALM variants in attention and memory tasks among healthy individuals  (data used: EEG & fMRI MSIT and Sternberg data, behavioural and psychometric/health data in regard to the genetic groups)
 * Preprint available soon: The impact of APOE/PICALM genetic variations on cortical thickness in healthy, middle-aged Alzheimer’s disease risk carriers (data used: MRI data in regard to the genetic groups)
 
 ### Additional data:
 * Structural MRI data are protected and available upon request
+	* MRI experiments were conducted using a Siemens Prisma FIT 3T scanner (Siemens Medical Systems, Erlangen, Germany) equipped with a 64-channel phased-array RF head coil. Structural images were acquired with the following parameters: a repetition time (TR) of 2400 ms, an inversion time (TI) of 1000 ms, an echo time (TE) of 2.74 ms, a flip angle of 8 degrees, a field of view (FOV) of 256x256 mm, and a voxel size of 0.8x0.8x0.8 mm. The total acquisition time (TA) for T1-weighted images was 6 minutes and 52 seconds. All MRI files underwent "defacing" using the fsl_deface algorithm (FSL 6.0.6.4 software on Ubuntu).
 
 ### Release history:
 * 10/2023: Initial release
