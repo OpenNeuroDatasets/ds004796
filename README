@@ -3,8 +3,8 @@
 * doi.org/10.1038/s41597-024-03106-5 (https://www.nature.com/articles/s41597-024-03106-5)
 
 ### Please cite the following references if you use these data:
-* Dzianok, P., Kublik, E. PEARL-Neuro Database: EEG, fMRI, health and lifestyle data of middle-aged people at risk of dementia. Sci Data 11, 276 (2024). https://doi.org/10.1038/s41597-024-03106-5
-* Dzianok, O., Kublik, E. A Polish Electroencephalography, Alzheimer’s Risk-genes, Lifestyle and Neuroimaging (PEARL-Neuro) Database (2024). doi: 10.18112/openneuro.ds004796.v1.0.5
+* Dzianok P, Kublik E. PEARL-Neuro Database: EEG, fMRI, health and lifestyle data of middle-aged people at risk of dementia. Sci Data 11, 276 (2024). DOI: https://doi.org/10.1038/s41597-024-03106-5
+* Dzianok P, Kublik E. A Polish Electroencephalography, Alzheimer’s Risk-genes, Lifestyle and Neuroimaging (PEARL-Neuro) Database (2024). OpenNeuro dataset. DOI: <provide the DOI for the latest release>
 
 ### Description of the database 
 
@@ -13,8 +13,8 @@ Full cohort: 192 healthy middle-aged (50-63) individuals, balanced female and ma
 * Genetic data (N = 192):
 	* Apolipoprotein E (APOE) 
 	* Phosphatidylinositol binding clathrin assembly protein (PICALM)
-* Basic demographic and health data.
-* Psychometric data (memory, intelligence, mood, personality, stress coping strategies).
+* Basic demographic and health data
+* Psychometric data (memory, intelligence, mood, personality, stress coping strategies)
 
 Cohort subgroup: 79 healthy middle-aged (50-63) individuals, balanced female and male ratio.
 
@@ -22,7 +22,7 @@ Cohort subgroup: 79 healthy middle-aged (50-63) individuals, balanced female and
 	* Functional data — electroencefalography (EEG) and functional magnetic resonance imaging (fMRI):
 		* Resting-state protocol (with two conditions: eyes open and eyes closed) 
 		* Cognitive tasks: multi-source interference task (MSIT) and Sternberg’s memory task
-* Blood tests data (blood count, lipid profile, HSV virus).
+* Blood tests data (blood count, lipid profile, HSV virus)
 
 ### Publications related to this dataset:
 * Dzianok P, Kublik E. Altered granulocyte count and erythrocyte measures in middle-aged, healthy carriers of APOE and PICALM risk genes for Alzheimer's disease. Acta Neurobiol Exp. 2023;83(2):127-139. DOI: https://doi.org/10.55782/ane-2023-012
