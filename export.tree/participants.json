@@ -1,0 +1,459 @@
+{
+    "participant_id": {
+        "Description": "Participant's ID."
+    },
+
+    "second_phase": {
+        "Description": "Information on whether a given participant took part in the second phase of the experiment.",
+        "Levels": {
+            "0": "no",
+            "1": "yes"
+        }
+    },	
+
+	"session_order": {
+        "Description": "Information on whether a given participant underwent an EEG session first or a MRI/fMRI session first.",
+        "Levels": {
+            "0": "first EEG",
+            "1": "yes MRI/fMRI"
+        }
+    },	
+
+    "APOE_rs429358": {
+        "Description": "Apolipoprotein gene rs429358."
+    },
+
+	"APOE_rs7412": {
+        "Description": "Apolipoprotein gene rs7412."
+    },
+
+
+	"APOE_haplotype": {
+        "Description": "APOE gene haplotype, based on rs429358/rs7412 results."
+    },
+
+	"PICALM_rs3851179": {
+        "Description": "Phosphatidylinositol Binding Clathrin Assembly Protein gene rs3851179."
+    },
+
+    "age": {
+        "Description": "Age of participants.",
+        "Units": "years"
+    },
+
+    "sex": {
+        "Description": "Sex of participants.",
+        "Levels": {
+            "0": "male",
+            "1": "female"
+        }
+    },	
+
+	"education": {
+        "Description": "Education level of participants.",
+        "Levels": {
+            "0": "primary education",
+            "1": "secondary education",
+			"2": "partial higher education",
+			"3": "higher education"
+        }
+    },	
+
+	"learning_deficits": {
+        "Description": "Learning deficits.",
+        "Levels": {
+            "0": "dyslexia",
+            "1": "dysgraphia",
+			"2": "dysorthography",
+			"3": "dyscalculia",
+			"4": "none",
+			"5": "other"
+        }
+    },
+
+	"BMI": {
+        "Description": "Body mass index calculated for each participants, based on height and weight."
+    },
+
+	"allergies": {
+        "Description": "Information on having allergies of any type.",
+        "Levels": {
+            "0": "no",
+			"1": "yes"
+        }
+    },
+
+	"drugs": {
+        "Description": "Information on taking permanent medication.",
+        "Levels": {
+            "0": "no",
+			"1": "yes"
+        }
+    },
+
+	"ibuprofen_intake": {
+        "Description": "Information on intake of medication with ibuprofen or other non-steroidal anti-inflammatory drugs.",
+        "Levels": {
+            "0": "none",
+            "1": "very rarely (several times a year)",
+			"2": "rarely (1-4 pills per month)",
+			"3": "moderately often (5-11 pills per month)",
+			"4": "often (>12 pills per month)"
+        }
+    },
+
+	"thyroid_diseases": {
+        "Description": "Health: thyroid diseases.",
+        "Levels": {
+            "0": "no",
+			"1": "hypothyroidism",
+			"2": "hyperthyroidism",
+			"3": "other"
+        }
+    },
+
+	"hypertension": {
+        "Description": "Health: hypertension.",
+        "Levels": {
+            "0": "no",
+			"1": "yes"
+        }
+    },
+
+	"diabetes": {
+        "Description": "Health: diabetes.",
+        "Levels": {
+            "0": "no",
+			"1": "yes"
+        }
+    },
+
+	"other_diseases": {
+        "Description": "Health: any other chronic diseases/heatlh problems.",
+        "Levels": {
+            "0": "no",
+			"1": "yes"
+        }
+    },
+
+	"smoking_status": {
+        "Description": "Health: smoking status (including nicotine electric cigarettes).",
+        "Levels": {
+            "0": "no",
+			"1": "yes",
+			"2": "in the past"
+        }
+    },
+
+	"coffee_status": {
+        "Description": "Health: coffee intake status.",
+        "Levels": {
+            "0": "no",
+			"1": "yes, on a daily basis",
+			"2": "yes, occasionally",
+			"3": "yes, but only decaffeinated coffee"
+        }
+    },
+
+	"dementia_history_parents": {
+        "Description": "Health: family history of dementia.",
+        "Levels": {
+            "0": "healthy parents",
+			"1": "one demented parent",
+			"2": "both demented parents"
+        }
+    },
+
+    "BDI": {
+        "Description": "Psychometric tests: Beck's Depression Inventory (BDI-II). Total score."
+    },
+
+    "SES": {
+        "Description": "Psychometric tests: Rosenberg's Self-Esteem Scale (SES). Total score."
+    },
+
+    "RPM": {
+        "Description": "Psychometric tests: Raven's Progressive Matrices (RPM) in standard/classic version. Total score."
+    },
+
+	"EHI": {
+        "Description": "Psychometric tests: Edinburgh Handedness Inventory (EHI). Total score."
+    },
+
+	"NEO_NEU": {
+        "Description": "Psychometric tests: NEO-FFI Personality Inventory. Total score on neuroticism scale."
+    },
+
+	"NEO_EXT": {
+        "Description": "Psychometric tests: NEO-FFI Personality Inventory. Total score on extraversion scale."
+    },
+
+	"NEO_OPE": {
+        "Description": "Psychometric tests: NEO-FFI Personality Inventory. Total score on openness scale."
+    },
+
+	"NEO_AGR": {
+        "Description": "Psychometric tests: NEO-FFI Personality Inventory. Total score on agreeableness scale."
+    },
+
+	"NEO_CON": {
+        "Description": "Psychometric tests: NEO-FFI Personality Inventory. Total score on conscientiousness scale."
+    },
+
+	"AUDIT": {
+        "Description": "Psychometric tests: Alcohol Use Disorders Identification Test (AUDIT). Total score."
+    },
+
+	"MINI-COPE_1": {
+        "Description": "Psychometric tests: Stress coping strategies (Mini-Cope Questionnaire). Question no. 1: points."
+    },
+
+	"MINI-COPE_2": {
+        "Description": "Psychometric tests: Stress coping strategies (Mini-Cope Questionnaire). Question no. 2: points."
+    },
+
+	"MINI-COPE_3": {
+        "Description": "Psychometric tests: Stress coping strategies (Mini-Cope Questionnaire). Question no. 3: points."
+    },
+
+	"MINI-COPE_4": {
+        "Description": "Psychometric tests: Stress coping strategies (Mini-Cope Questionnaire). Question no. 4: points."
+    },
+
+	"MINI-COPE_5": {
+        "Description": "Psychometric tests: Stress coping strategies (Mini-Cope Questionnaire). Question no. 5: points."
+    },
+
+	"MINI-COPE_6": {
+        "Description": "Psychometric tests: Stress coping strategies (Mini-Cope Questionnaire). Question no. 6: points."
+    },
+
+	"MINI-COPE_7": {
+        "Description": "Psychometric tests: Stress coping strategies (Mini-Cope Questionnaire). Question no. 7: points."
+    },
+
+	"MINI-COPE_8": {
+        "Description": "Psychometric tests: Stress coping strategies (Mini-Cope Questionnaire). Question no. 8: points."
+    },
+
+	"MINI-COPE_9": {
+        "Description": "Psychometric tests: Stress coping strategies (Mini-Cope Questionnaire). Question no. 9: points."
+    },
+
+	"MINI-COPE_10": {
+        "Description": "Psychometric tests: Stress coping strategies (Mini-Cope Questionnaire). Question no. 10: points."
+    },
+
+	"MINI-COPE_11": {
+        "Description": "Psychometric tests: Stress coping strategies (Mini-Cope Questionnaire). Question no. 11: points."
+    },
+
+	"MINI-COPE_12": {
+        "Description": "Psychometric tests: Stress coping strategies (Mini-Cope Questionnaire). Question no. 12: points."
+    },
+
+	"MINI-COPE_13": {
+        "Description": "Psychometric tests: Stress coping strategies (Mini-Cope Questionnaire). Question no. 13: points."
+    },
+
+	"MINI-COPE_14": {
+        "Description": "Psychometric tests: Stress coping strategies (Mini-Cope Questionnaire). Question no. 14: points."
+    },
+
+	"CVLT_1": {
+        "Description": "Psychometric tests: California Verbal Learning Test (CVLT). List A, task 1-5."
+    },
+
+	"CVLT_2": {
+        "Description": "Psychometric tests: California Verbal Learning Test (CVLT). List A, task 1."
+    },
+
+	"CVLT_3": {
+        "Description": "Psychometric tests: California Verbal Learning Test (CVLT). List A, task 5."
+    },
+
+	"CVLT_4": {
+        "Description": "Psychometric tests: California Verbal Learning Test (CVLT). List B."
+    },
+
+	"CVLT_5": {
+        "Description": "Psychometric tests: California Verbal Learning Test (CVLT). Short-term delay free recall."
+    },
+
+	"CVLT_6": {
+        "Description": "Psychometric tests: California Verbal Learning Test (CVLT). Short-term delay cued recall."
+    },
+
+	"CVLT_7": {
+        "Description": "Psychometric tests: California Verbal Learning Test (CVLT). Long-term delay free recall."
+    },
+
+	"CVLT_8": {
+        "Description": "Psychometric tests: California Verbal Learning Test (CVLT). Long-term delay cued recall."
+    },
+
+	"CVLT_9": {
+        "Description": "Psychometric tests: California Verbal Learning Test (CVLT). Perseverations."
+    },
+
+	"CVLT_10": {
+        "Description": "Psychometric tests: California Verbal Learning Test (CVLT). Intrusion errors - free recall."
+    },
+
+	"CVLT_11": {
+        "Description": "Psychometric tests: California Verbal Learning Test (CVLT). Intrusion errors - cued recall."
+    },
+
+	"CVLT_12": {
+        "Description": "Psychometric tests: California Verbal Learning Test (CVLT). Recognition: total hits."
+    },
+
+	"CVLT_13": {
+        "Description": "Psychometric tests: California Verbal Learning Test (CVLT). Recognition: false alarms."
+    },
+
+
+	"leukocytes": {
+        "Description": "Blood tests: leukocytes level.",
+		"Units": "K/µl"
+    },
+
+	"erythrocytes": {
+        "Description": "Blood tests: erythrocytes level.",
+		"Units": "K/µl"
+    },
+
+	"hemoglobin": {
+        "Description": "Blood tests: hemoglobin level.",
+		"Units": "K/µl"
+    },
+
+	"hematocrit": {
+        "Description": "Blood tests: hematocrit level.",
+		"Units": "%"
+    },
+
+	"MCV": {
+        "Description": "Blood tests: mean cell volume level (MCV).",
+		"Units": "fl"
+    },
+
+	"MCH": {
+        "Description": "Blood tests: mean cell hemoglobin level (MCH).",
+		"Units": "pg"
+    },
+
+	"MCHC": {
+        "Description": "Blood tests: mean corpuscular hemoglobin concentration (MCHC).",
+		"Units": "g/dl"
+    },
+
+	"RDW-CV": {
+        "Description": "Blood tests: red blood cell distribution width (RDW-CV).",
+		"Units": "%"
+    },
+
+	"platelets": {
+        "Description": "Blood tests: platelets level.",
+		"Units": "K/µl"
+    },
+
+	"PDW": {
+        "Description": "Blood tests: platelet distribution width (PDW).",
+		"Units": "fl"
+    },
+
+	"MPV": {
+        "Description": "Blood tests: mean platelet volume (MPV).",
+		"Units": "fl"
+    },
+
+	"P-LCR": {
+        "Description": "Blood tests: platelet-large cell ratio.",
+		"Units": "%"
+    },
+
+	"neutrophils": {
+        "Description": "Blood tests: neutrophils level.",
+		"Units": "K/µl"
+    },
+
+	"lymphocytes": {
+        "Description": "Blood tests: lymphocytes level.",
+		"Units": "K/µl"
+    },
+
+	"monocytes": {
+        "Description": "Blood tests: monocytes level.",
+		"Units": "K/µl"
+    },
+	
+	"eosinophils": {
+        "Description": "Blood tests: eosinophils level.",
+		"Units": "K/µl"
+    },
+
+	"basophils": {
+        "Description": "Blood tests: basophils level.",
+		"Units": "K/µl"
+    },
+
+	"neutrophils_%": {
+        "Description": "Blood tests: neutrophils level percent.",
+		"Units": "%"
+    },
+
+	"lymphocytes_%": {
+        "Description": "Blood tests: lymphocytes level percent.",
+		"Units": "%"
+    },
+
+	"monocytes_%": {
+        "Description": "Blood tests: monocytes level percent.",
+		"Units": "%"
+    },
+	
+	"eosinophils_%": {
+        "Description": "Blood tests: eosinophils level percent.",
+		"Units": "%"
+    },
+
+	"basophils_%": {
+        "Description": "Blood tests: basophils level percent.",
+		"Units": "%"
+    },
+
+	"total_cholesterol": {
+        "Description": "Blood tests: total cholesterol level.",
+		"Units": "mg/dl"
+    },	
+	
+	"cholesterol_HDL": {
+        "Description": "Blood tests: HDL cholesterol level.",
+		"Units": "mg/dl"
+    },	
+
+	"non-HDL_cholesterol": {
+        "Description": "Blood tests: non-HDL cholesterol level.",
+		"Units": "mg/dl"
+    },		
+
+	"LDL_cholesterol": {
+        "Description": "Blood tests: LDL cholesterol level.",
+		"Units": "mg/dl"
+    },	
+
+	"triglycerides": {
+        "Description": "Blood tests: triglycerides level.",
+		"Units": "mg/dl"
+    },
+
+	"HSV_r": {
+        "Description": "Blood tests: herpes simple virus (HSV) IgG positive result.",
+		"Levels": {
+            "0": "no",
+			"1": "yes"
+        }
+    }
+
+}
