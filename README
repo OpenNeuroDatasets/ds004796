@@ -1,5 +1,7 @@
 ## A Polish Electroencephalography, Alzheimer’s Risk-genes, Lifestyle and Neuroimaging (PEARL-Neuro) Database 
 
+IMPORTANT NOTE: The dataset contains no errors (BIDS-1). The numerous warnings currently displayed are a result of OpenNeuro updating its validator to BIDS-2. The OpenNeuro team is actively working on refining the validator to display only meaningful warnings (more information on OpenNeuro GitHub page). At this time, as dataset owners, we are unable to take any action to resolve these warnings.
+
 ### Data Descriptor:
 * doi.org/10.1038/s41597-024-03106-5 (https://www.nature.com/articles/s41597-024-03106-5)
 
