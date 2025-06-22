@@ -1,3 +1,5 @@
+1.1.0 2025-06-22
+  - Marker corrections in .tsv and .vmrk EEG resting-state files
 1.0.9 2024-08-06
   - Corrected REST protocol files (vhdr and vmrk) for subject 52 by updating the DataFile and MarkerFile fields.
 1.0.8 2024-07-04
